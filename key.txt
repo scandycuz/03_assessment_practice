@@ -1,0 +1,8 @@
+movies:
+id, title, year
+
+castings:
+movie_id, actor_id, ord
+
+actors:
+id, name
